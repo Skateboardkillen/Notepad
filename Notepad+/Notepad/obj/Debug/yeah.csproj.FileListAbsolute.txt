@@ -1,0 +1,33 @@
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\bin\Debug\SK8's Custom Character Executor.exe.config
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\bin\Debug\SK8's Custom Character Executor.exe
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\bin\Debug\SK8's Custom Character Executor.pdb
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\bin\Debug\Siticone.UI.dll
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\bin\Debug\WeAreDevs_API.dll
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\SK8_s_Custom_Character_Executor.Executor.resources
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\SK8_s_Custom_Character_Executor.Key.resources
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\SK8_s_Custom_Character_Executor.HomeUI.resources
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\SK8_s_Custom_Character_Executor.Loader.resources
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\SK8_s_Custom_Character_Executor.Properties.Resources.resources
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\yeah.csproj.GenerateResource.cache
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\yeah.csproj.CoreCompileInputs.cache
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\yeah.csproj.CopyComplete
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\SK8's Custom Character Executor.exe
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\SK8's Custom Character Executor.pdb
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\SK8_s_Custom_Character_Executor.Chars.resources
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\yeah.csproj.AssemblyReference.cache
+C:\Users\vincent.adolfsson\source\repos\SK8's Custom Character Executor\SK8's Custom Character Executor\obj\Debug\yeah.csproj.SuggestedBindingRedirects.cache
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\Notepad.HomeUI.resources
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\Notepad.Loader.resources
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\yeah.csproj.GenerateResource.cache
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\bin\Debug\Siticone.UI.dll
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\yeah.csproj.CoreCompileInputs.cache
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\yeah.csproj.CopyComplete
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\yeah.csproj.AssemblyReference.cache
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\yeah.csproj.SuggestedBindingRedirects.cache
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\bin\Debug\Notepad.exe
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\bin\Debug\Notepad.pdb
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\Notepad.exe
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\Notepad.pdb
+C:\Users\vincent.adolfsson\source\repos\Notepad+\Notepad\obj\Debug\Notepad.MainUI.resources
